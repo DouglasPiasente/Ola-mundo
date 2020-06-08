@@ -3,4 +3,4 @@
 
  Repositório criado para testar git e versionamento
 
-Essa linha foi alterada diretamente pelo site.
+Essa linha foi alterada diretamente pelo site. Legal!
